@@ -1,3 +1,5 @@
+This repository is a learning map, not a claim that every topic is fully mastered.
+
 # BerYa Platform Architecture
 
 This repository collects my architecture notes, system ideas, and technical experiments for building cloud-ready platforms.
